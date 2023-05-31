@@ -4,7 +4,7 @@
 
 For this Power BI Co-Hack we are going to practice DAX time intelligence functions, looking at the housing market in the US state of Connecticut.
 
-![connecticut](images/connecticut.png)
+![connecticut](images/Connecticut.png)
 
 Time intelligence functions allow you to manipulate data over specific time periods like days, weeks, months, quarters, or years. Have you ever had someone ask you for the year-to-date value? Or how about year-over-year calculations? DAX makes working with dates and times easy!
 
