@@ -1,8 +1,8 @@
-# MTT CoHack Challenge : Power BI
+# Power BI: Challenge excercise
 
 ## Introduction
 
-For this Power BI Co-Hack we are going to practice DAX time intelligence functions, looking at the housing market in the US state of Connecticut.
+For this Power BI excercise we are going to practice DAX time intelligence functions, looking at the housing market in the US state of Connecticut.
 
 ![connecticut](images/Connecticut.png)
 
